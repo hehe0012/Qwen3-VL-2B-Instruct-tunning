@@ -1,0 +1,1302 @@
+[
+  {
+    "image": "val2014/val2014/COCO_val2014_000000188053.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many slices of food are on the counter?"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000187543.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many cat's are in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000464176.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are in the room?"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000226111.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many times does it say Pike?"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000068114.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many pedestrians are in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000512657.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are wearing a belt?"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000370401.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many birds do you see?"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000551459.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many tusks does the elephant have?"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000016593.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many of these people appear to be wearing glasses?"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000044081.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many earrings does the guy have in his ear?"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000489739.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many toothbrushes are there?"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000434805.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many balloons are in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000302318.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many trucks are there?"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000156497.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many water bottles are in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000124873.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many children are wearing visors?"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000014108.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many TVs are in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000386204.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many skateboarders are in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000398119.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many green buses are there?"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000488539.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many suitcases have a handle extended upward?"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000443844.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many benches are there?"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000267684.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are wearing red?"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000138556.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many boxes are there?"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000290177.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many monitors?"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000030895.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many lamps on the table?"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000219216.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many boats are there?"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000384834.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many surfers are there?"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000450355.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many forks are in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000573320.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many women in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000079878.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many toilet paper holders are in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000222635.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many posters are on the wall?"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000444073.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many sheep is the dog chasing?"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000252135.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are there?"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000266021.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are holding the sail?"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000291144.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many meters are in the photo?"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000386189.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many benches are in a row?"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000394841.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many doorways are there?"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000466392.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many of the cat's legs can be seen?"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000168692.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people carry the surfboard?"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000011241.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many sandwiches are on the plate with tongs?"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000076261.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many birds are in the sky?"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000407198.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many giraffes are pictured?"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000119939.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are skateboarding in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000408112.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many traffic cones are seen?"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000144429.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many zebras we can see?"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000549109.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many framed pictures are on the wall?"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000443769.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are shown?"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000474245.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people in the group are women?"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000447549.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many giraffes are here?"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000128142.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are shown?"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000329939.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many giraffes are in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000575958.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many animals are shown here?"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000322163.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many of these men are wearing uniforms?"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000558736.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many zebras are there?"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000260105.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many egg yolks are visible?"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000181666.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many men in the image are there in total?"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000212261.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000142246.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many windows are visible?"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000383282.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many animals are there?"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000407903.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many surfers are in the water?"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000576160.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many sinks are visible?"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000330356.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many legs does the giraffe have?"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000002473.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000223289.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many prongs are on the fork?"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000057350.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many zebra are standing around the grass?"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000304165.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many drawers are under each sink?"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000476233.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many players on field?"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000182755.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many monitors are there?"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000387563.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many legs does the giraffe have?"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000121031.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many horses are here?"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000300086.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many pillars are separating the rails?"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000149568.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many legs does this animal have?"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000298830.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many strands of wire are visible?"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000561375.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many levels is the building?"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000157358.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are on the street?"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000473974.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many animals are on screen?"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000351626.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many pillows?"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000465835.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many zebras are pictured?"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000289486.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many giraffes are in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000070258.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many children are there?"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000131152.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are here?"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000370266.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many sheep are in the pasture?"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000134119.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many giraffes are there?"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000073239.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many pictures are hanging on the walls?"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000216325.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many surfers are there?"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000551338.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are shown?"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000188173.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many cars are in the photo?"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000006012.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many bananas are there?"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000099026.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many sheep is there?"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000164969.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many slices is the pizza cut into?"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000561539.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are in the photo?"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000268371.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many planes?"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000322226.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat number of cages are there?"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000224530.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many surfboards are pictured?"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000048684.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many people are gathered around?"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000391825.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many animals are in the picture?"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000552775.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many knobs can you see on the stove?"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000261504.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many pillows are on the bed?"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000566042.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many giraffes are there?"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000176007.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat number of phones are on the counter?"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "image": "val2014/val2014/COCO_val2014_000000351331.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nHow many slices is the food cut into?"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  }
+]
