@@ -26,7 +26,3 @@ docker run -it --gpus all \
   --max-model-len 8192
 ```
 使用test.py测试多模态功能
-
-## 对该模型在计数问题上的表现进行评估
-对VQA-v2数据集先筛选出计数问题（约为23000个）
-测试结果在count_eval_val2014.json
